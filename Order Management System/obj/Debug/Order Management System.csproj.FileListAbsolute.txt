@@ -1,0 +1,38 @@
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Order Management System.exe.config
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Order Management System.exe
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Order Management System.pdb
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Ma.D318B10C.Up2Date
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.exe
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.pdb
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order_Management_System.Migrations.ordermanage.resources
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\StackExchange.Redis.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Memory.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\StackExchange.Redis.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Buffers.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Memory.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order_Management_System.Migrations.order.resources
+C:\Users\Dell\source\repos\Order Management System\Order Management System\obj\Debug\Order Management System.exe.config
